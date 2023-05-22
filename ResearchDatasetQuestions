@@ -1,0 +1,7 @@
+SQL QUeries on ResearchDataSet
+..............................
+1.select firstname and lastnames of professors working on a research budget less than $100000.
+2.Select Research work with a budget larger than the avaerage budget of all the research works.
+3.select firstname and lastnames of professors working with second to the lowest budget
+4.select researchtitle of researchworks with more tahn 4 professors;
+
